@@ -8,5 +8,7 @@ I’m currently working on transforming my master's thesis into a publication at
 
 Please feel free to check out my previous work in my repositories!
 
+Lately I've been mainly working in R, however, I am also fluent in Python and it's core Data Science and Deep Learning libraries.
+
 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/david-redek/)
